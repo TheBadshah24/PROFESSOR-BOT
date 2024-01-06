@@ -120,7 +120,7 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-* [![MKN BOTZ](https://img.shields.io/static/v1?label=TheBlackXYZ &message=BOTZ&color=critical)](https://t.me/TheBlackXYZ)
+* [![MKN BOTZ](https://img.shields.io/static/v1?label=TheBlackxyz &message=BOTZ&color=critical)](https://t.me/TheBlackXYZ)
 
 ## Credit 💞
 
