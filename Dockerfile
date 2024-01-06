@@ -5,7 +5,7 @@ COPY requirements.txt /requirements.txt
 
 RUN cd /
 RUN pip install -U pip && pip install -U -r requirements.txt
-WORKDIR / app
+WORKDIR /app
 COPY . .
 CMD ["python", "bot.py"]
 Expose 3306
