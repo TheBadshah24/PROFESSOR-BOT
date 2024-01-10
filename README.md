@@ -120,7 +120,7 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-*  <img src="https://img.shields.io/static/v1?message=Teligram &logo=Teligram &label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Teligram logo"(https://t.me/TheBlackXYZ)
+* (https://t.me/TheBlackXYZ)
 
 ## Credit 💞
 
