@@ -2,8 +2,8 @@
     "name": "PROFESSOR-BOT",
     "description": "The Telegram Autofilter Bot",
     "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
-    "keywords": ["Telegram", "auto-filter", "MrMKN"],
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "keywords": ["Telegram", "auto-filter", "TheBlackXYZ"],
+    "repository": "https://github.com/TheBlackxyz/PROFESSOR-BOT",
     "env": {
         "WEBHOOK": {
             "description": "True/False if your server is web support required? the value is True else False",
@@ -32,11 +32,11 @@
         },
         "SHORT_API": {
             "description": "Api Key Of shortner You Use.",
-            "required": false 
+            "required": true 
         },
         "SHORT_URL": {
             "description": "Url of shortner site you use.",
-            "required": false
+            "required": true 
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
