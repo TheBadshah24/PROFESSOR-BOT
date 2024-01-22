@@ -137,10 +137,10 @@ def list_to_str(k):
     else:
         return ' '.join(f'{elem}, ' for elem in k)
 
-__repo__ = "https://github.com/MrMKN/PROFESSOR-BOT"
+__repo__ = "https://github.com/TheBlackxyz"
 __version__ = "PROFESSOR-BOT ᴠ4.5.0"
 __license__ = "GNU GENERAL PUBLIC LICENSE V2"
-__copyright__ = "Copyright (C) 2023-present MrMKN <https://github.com/MrMKN>"
+__copyright__ = "Copyright (C) 2023-present TheBlackxyz <https://github.com/TheBlackxyz>"
 
 async def search_gagala(text):
     usr_agent = {
@@ -305,7 +305,7 @@ def get_time(seconds):
     
 async def get_shortlink(link):
     url = f'{SHORT_URL}/api'
-    params = {'api': SHORT_API, 'url': link}
+    params = {'QkPZEY0lolfg6KOfgk3019OaHHk2': SHORT_API, 'https://shareus.io': link}
     try:
         async with aiohttp.ClientSession() as session:
             async with session.get(url, params=params, raise_for_status=True, ssl=False) as response:
