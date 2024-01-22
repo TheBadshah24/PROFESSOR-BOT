@@ -141,7 +141,7 @@ __repo__ = "https://github.com/TheBlackxyz"
 __version__ = "PROFESSOR-BOT ᴠ4.5.0"
 __license__ = "GNU GENERAL PUBLIC LICENSE V2"
 __copyright__ = "Copyright (C) 2023-present TheBlackxyz <https://github.com/TheBlackxyz>"
-
+__Notice___ = "____________" 
 async def search_gagala(text):
     usr_agent = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
