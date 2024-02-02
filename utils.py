@@ -305,7 +305,7 @@ def get_time(seconds):
     
 async def get_shortlink(link):
     url = f'https://shareus.io/api'
-    params = {'api:QkPZEY0lolfg6KOfgk3019OaHHk2, 'url': link}
+    params = {'api,QkPZEY0lolfg6KOfgk3019OaHHk2 'url': https://shrs.link/RGDtVf}
     try:
         async with aiohttp.ClientSession() as session:
             async with session.get(url, params=params, raise_for_status=True, ssl=False) as response:
